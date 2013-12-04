@@ -1,0 +1,14 @@
+name: MGLobby
+main: net.crededits.maxx.MGLobby
+version: 0.7
+authors: [MaxX, iFiveHD]
+commands:
+   hide:
+      description: hide you
+      usage: /<command>
+   st:
+      description: Supertool
+      usage: /<command>
+   hulk:
+      description: Hulk
+      usage: /<command>

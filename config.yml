@@ -1,0 +1,8 @@
+Config:
+#If this is True My and My Co developers names are Green and we are the rank "Developer"
+    ShowDevelopers: true
+#The location where the player spawn
+    SpawnLocation:
+        spawnX: 0
+        spawnY: 90
+        spawnZ: 0
